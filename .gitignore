@@ -1,0 +1,15 @@
+# Ignore environmental files
+.env
+
+# Ignore logs
+skynet.log
+
+# Ignore pycache
+__pycache__/
+
+# Ignore db
+ui.db
+ui
+
+# Ignore .idea file
+.idea/
